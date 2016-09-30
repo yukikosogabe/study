@@ -1,2 +1,2 @@
-# study
-this is arepository for study 
+## study
+*this is arepository for study 
